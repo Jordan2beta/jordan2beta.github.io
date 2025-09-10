@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html><head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="radius_40km_only_map%20(1)_files/leaflet.js"></script>
+    <script src="radius_40km_only_map%20(1)_files/jquery-1.12.4.min.js"></script>
+    <script src="radius_40km_only_map%20(1)_files/bootstrap.min.js"></script>
+    <script src="radius_40km_only_map%20(1)_files/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="radius_40km_only_map%20(1)_files/leaflet.css">
+    <link rel="stylesheet" href="radius_40km_only_map%20(1)_files/bootstrap.min.css">
+    <link rel="stylesheet" href="radius_40km_only_map%20(1)_files/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="radius_40km_only_map%20(1)_files/font-awesome.min.css">
+    <link rel="stylesheet" href="radius_40km_only_map%20(1)_files/leaflet.awesome-markers.css">
+    <link rel="stylesheet" href="radius_40km_only_map%20(1)_files/leaflet.awesome.rotate.min.css">
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+            <style>
+                #map_6f1297e3cc77cf24ccb0bc0dc590d882 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" id="map_6f1297e3cc77cf24ccb0bc0dc590d882" tabindex="0"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 16; transform: translate3d(632px, 332px, 0px) scale(0.25);"></div><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(719px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(975px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(719px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(975px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(719px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(975px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_008.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(463px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1231px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(463px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_008.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1231px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(719px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(975px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(463px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1231px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(463px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1231px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_002.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(207px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1487px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(207px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1487px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_008.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(207px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1487px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(207px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_008.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1487px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-49px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/469_003.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1743px, 184px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-49px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/470_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1743px, 440px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_006.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-49px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/468_004.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1743px, -72px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_007.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-49px, 696px, 0px); opacity: 1;"><img alt="" role="presentation" src="radius_40km_only_map%20(1)_files/471_005.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(1743px, 696px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-shadow-pane"><img src="radius_40km_only_map%20(1)_files/marker-shadow.png" class="leaflet-marker-shadow leaflet-zoom-animated" style="margin-left: -12px; margin-top: -41px; width: 41px; height: 41px; transform: translate3d(800px, 479px, 0px);" alt=""></div><div class="leaflet-pane leaflet-overlay-pane"><svg pointer-events="none" class="leaflet-zoom-animated" width="2304" height="1103" style="transform: translate3d(-192px, -92px, 0px);" viewBox="-192 -92 2304 1103"><g><path class="leaflet-interactive" stroke="blue" stroke-opacity="1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="blue" fill-opacity="0.2" fill-rule="evenodd" d="M528.9359405511059,478.5360270638339a271,271 0 1,0 542,0 a271,271 0 1,0 -542,0 "></path></g></svg></div><div class="leaflet-pane leaflet-marker-pane"><img src="radius_40km_only_map%20(1)_files/marker-icon.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(800px, 479px, 0px); z-index: 479;" alt="" tabindex="0"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(219377px, 120340px, 0px) scale(512);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out">−</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com/" title="A JS library for interactive maps">Leaflet</a> | Data by © <a href="http://openstreetmap.org/">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.</div></div></div></div>
+        
+
+<script>
+    
+    
+            var map_6f1297e3cc77cf24ccb0bc0dc590d882 = L.map(
+                "map_6f1297e3cc77cf24ccb0bc0dc590d882",
+                {
+                    center: [14.55333684, 121.0486486],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_63caed23ebfe8ca4712f081f2b615060 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_6f1297e3cc77cf24ccb0bc0dc590d882);
+        
+    
+            var marker_3368e1c9f48950d87c1a23e2b7546910 = L.marker(
+                [14.55333684, 121.0486486],
+                {}
+            ).addTo(map_6f1297e3cc77cf24ccb0bc0dc590d882);
+        
+    
+            marker_3368e1c9f48950d87c1a23e2b7546910.bindTooltip(
+                `<div>
+                     BGC SITE
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_2efdde8ab7577175bbc88ed28bd834d8 = L.circle(
+                [14.55333684, 121.0486486],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 40000, "stroke": true, "weight": 3}
+            ).addTo(map_6f1297e3cc77cf24ccb0bc0dc590d882);
+        
+</script>
+</body></html>
